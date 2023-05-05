@@ -34,4 +34,4 @@ Esse projeto está sob a licença B7Web.
 
 ---
 
-Feito com ♥ by B7Web: [Link do Projeto](https://www.youtube.com/watch?v=0apUGZTyLDE&t=1001s)
+Projeto B7Web: [Link do Projeto](https://www.youtube.com/watch?v=0apUGZTyLDE&t=1001s)
